@@ -91,3 +91,4 @@ function addStar(star) {
   // Reset the transformations applied to the star
   pop();
 }
+//
